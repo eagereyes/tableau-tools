@@ -2,7 +2,9 @@
 
 # Extract all the thumbnails from a Tableau workbook in .twb or .twbx format.
 # Thumbnails are dumped into a directory named after the workbook to avoid
-# clutter Usage: thumbdumper.py <filname.twbx> (or <filename.twb>)
+# clutter
+# 
+# Usage: thumbdumper.py <filname.twbx> (or <filename.twb>)
 #
 # Copyright 2018 Robert Kosara <rkosara@me.com>
 #
